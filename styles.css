@@ -1,0 +1,49 @@
+1<style>
+  body{
+    font-family: Arial;
+  }
+  .title{
+    font-weight: bold;
+  }
+  #card {
+    /*text-align: justify;*/
+    width: 310px;
+    padding: 10px 10px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+  }
+
+  .texto{
+    border: 1px solid black;
+    width: 300px;
+    border-radius: 10px;
+    padding: 5px 5px;
+  }
+
+  .list{
+  text-align: left;
+  list-style: none;
+  padding-left: 0;
+  }
+
+ .picture{
+    padding: 5px 5px;
+    width: 300px;
+  }
+
+  .italico {
+    font-style: italic;
+  }
+
+  .bold {
+   font-weight: bold;
+  }
+
+  .description {
+   font-style: italic;
+  }
+
+  .footer {
+    font-size: 10px;
+  }
+</style>
